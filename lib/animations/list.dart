@@ -1,0 +1,45 @@
+import 'package:animation_aalll/animations/example_1.dart';
+import 'package:animation_aalll/animations/example_10.dart';
+import 'package:animation_aalll/animations/example_11_smily_face.dart';
+import 'package:animation_aalll/animations/example_12.dart';
+import 'package:animation_aalll/animations/example_13.dart';
+import 'package:animation_aalll/animations/example_14.dart';
+import 'package:animation_aalll/animations/example_15.dart';
+import 'package:animation_aalll/animations/example_16.dart';
+import 'package:animation_aalll/animations/example_17.dart';
+import 'package:animation_aalll/animations/example_18.dart';
+import 'package:animation_aalll/animations/example_19.dart';
+import 'package:animation_aalll/animations/example_2.dart';
+import 'package:animation_aalll/animations/example_3.dart';
+import 'package:animation_aalll/animations/example_4.dart';
+import 'package:animation_aalll/animations/example_5_practice.dart';
+import 'package:animation_aalll/animations/example_6.dart';
+import 'package:animation_aalll/animations/example_7.dart';
+import 'package:animation_aalll/animations/example_8.dart';
+import 'package:animation_aalll/animations/example_9.dart';
+import 'package:animation_aalll/animations/providerTraining/provider_training.dart';
+import 'package:flutter/material.dart';
+
+List<Widget> pages = [
+  const AnimationOne(),
+  const AnimationTwo(),
+  const AnimationThree(),
+  const AnimationFour(),
+  const AnimationPractice(),
+  const AnimationSixx(),
+  const AnimationSeveen(),
+  const AnimationEight(),
+  const AnimationNine(),
+  const AnimationTenn(),
+  const AnimationSmilee(),
+  const AnimationTwelwe(),
+  const AnimationTheerteen(),
+  const AnimationFourteen(),
+  const AnimationFifteen(),
+  const AnimationSixteen(),
+  const AnimationSeventeen(),
+  const AnimationEighteen(),
+  const AnimationNineteen(),
+  const AnimationNineteen(),
+  const ProviderTrain(),
+];
